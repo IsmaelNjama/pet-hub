@@ -1,0 +1,8 @@
+# Ignore service directories
+multer-server/
+pet-adoption-frontend/
+pet-adoption-backend/
+
+# Common files to ignore
+.env
+node_modules/
